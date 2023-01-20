@@ -947,7 +947,7 @@ section {
   animation-duration: 1.5s;
 }
 
-/* @keyframes fade {
+@keyframes fade {
   0% {
     opacity: 0;
   }
@@ -955,4 +955,4 @@ section {
   100% {
     opacity: 1;
   }
-} */
+}
