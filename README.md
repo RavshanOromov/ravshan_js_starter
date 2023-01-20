@@ -1,1 +1,1 @@
-# ravshan_js_starter
+https://ravshan-js-starter-code.netlify.app
